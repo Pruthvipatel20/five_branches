@@ -1,0 +1,3 @@
+Authentication Module:
+
+This branch contains the authentication part of the project. It includes user login, user registration, password validation, and session management. The module ensures secure access to the application and manages user credentials.
