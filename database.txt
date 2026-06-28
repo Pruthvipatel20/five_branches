@@ -1,0 +1,3 @@
+Database Module:
+
+This branch contains the database design of the project. It includes database schema, tables, and migration files. The module is responsible for storing and managing application data efficiently.
